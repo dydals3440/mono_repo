@@ -613,7 +613,7 @@
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "12821013768168130225"
+        "hash": "15154085777335565161"
       },
       {
         "file": ".nx/cache/lockfile.hash",
@@ -6914,6 +6914,10 @@
         {
           "file": "services/storybook/stories/ReactComponents/Layout/Divider.stories.tsx",
           "hash": "9227920435812380862"
+        },
+        {
+          "file": "services/storybook/stories/ReactComponents/Layout/Flex.stories.tsx",
+          "hash": "5504204458841917275"
         }
       ],
       "test": [
@@ -7106,11 +7110,11 @@
         },
         {
           "file": "packages/react/components/layout/src/layout/index.ts",
-          "hash": "8560170595730434543"
+          "hash": "2738394407819715805"
         },
         {
           "file": "packages/react/components/layout/src/layout/types.ts",
-          "hash": "3528105256491258724"
+          "hash": "3421261898509720270"
         },
         {
           "file": "packages/react/components/layout/src/typography/Heading.tsx",
@@ -7142,11 +7146,15 @@
         },
         {
           "file": "packages/react/components/layout/src/index.ts",
-          "hash": "15777347173274935377"
+          "hash": "10517059378662973427"
         },
         {
           "file": "packages/react/components/layout/src/layout/Divider.tsx",
           "hash": "12135245663595183287"
+        },
+        {
+          "file": "packages/react/components/layout/src/layout/Flex.tsx",
+          "hash": "17498366847050642124"
         }
       ],
       "@matthew/themes": [
