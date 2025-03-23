@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run-many --target=dev --projects=@matthew/react-hooks-*,@matthew/react-components-*",
+    "startTime": "2025-03-23T09:45:55.998Z",
+    "endTime": "2025-03-23T09:45:57.489Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "@matthew/react-components-layout:dev",
+      "target": "dev",
+      "projectName": "@matthew/react-components-layout",
+      "hash": "14971072269963880449",
+      "startTime": "2025-03-23T09:45:56.001Z",
+      "endTime": "2025-03-23T09:45:57.489Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

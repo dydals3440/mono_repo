@@ -1,0 +1,21 @@
+# 맥
+*.DS_Store
+*.log
+*.tsbuildinfo
+
+# yarn / yarn berry
+.pnp.*
+.yarn/install-state.gz
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+**/package-lock.json
+**/node_modules/
+
+# **은 어떤 dist 폴더에도 적용
+**/dist/*
+# root의 dist 폴더만 적용
+dist
+*storybook.log

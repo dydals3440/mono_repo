@@ -1,0 +1,422 @@
+{
+  "packages/themes": {
+    "root": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "name": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "projectType": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:public": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.0": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.1": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.2": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.3": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.4": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageExports": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageMain": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.executor": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.metadata": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options.script": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.metadata.scriptContent": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.metadata.runCommand": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:js": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:js.executor": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:js.options": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:js.metadata": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:js.options.script": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:js.metadata.scriptContent": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:js.metadata.runCommand": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:type": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:type.executor": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:type.options": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:type.metadata": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:type.options.script": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:type.metadata.scriptContent": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:type.metadata.runCommand": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:css": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:css.executor": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:css.options": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:css.metadata": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:css.options.script": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:css.metadata.scriptContent": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build:css.metadata.runCommand": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.clean": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.clean.executor": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.clean.options": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.clean.metadata": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.clean.options.script": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.clean.metadata.scriptContent": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.clean.metadata.runCommand": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.nx-release-publish": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.nx-release-publish.executor": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.nx-release-publish.dependsOn": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.nx-release-publish.options": [
+      "packages/themes/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.dependsOn": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "services/test": {
+    "root": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "name": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "projectType": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.0": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.1": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.2": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.3": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.executor": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.options": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.metadata": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.options.script": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.metadata.scriptContent": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.metadata.runCommand": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.executor": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.metadata": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options.script": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.metadata.scriptContent": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.metadata.runCommand": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.executor": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.options": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.options.script": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata.scriptContent": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata.runCommand": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.eject": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.eject.executor": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.eject.options": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.eject.metadata": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.eject.options.script": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.eject.metadata.scriptContent": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.eject.metadata.runCommand": [
+      "services/test/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.dependsOn": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  }
+}

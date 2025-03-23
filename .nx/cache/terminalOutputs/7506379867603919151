@@ -1,0 +1,27 @@
+[1m@storybook/core v8.6.8[22m[0m
+[0m
+[38;2;241;97;97mSB_CORE-SERVER_0007 (MainFileEvaluationError): Storybook couldn't evaluate your [33m.storybook/main.js[39m file.
+
+Original error:
+[37mError: Cannot find module '@storybook/addon-interactions/package.json'
+Require stack:
+- /.storybook/main.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Function.resolve (node:internal/modules/helpers:145:19)
+    at getAbsolutePath (file:///.storybook/main.js:11:26)
+    at file:///.storybook/main.js:24:5
+    at ModuleJobSync.runSync (node:internal/modules/esm/module_job:400:35)
+    at ModuleLoader.importSyncForRequire (node:internal/modules/esm/loader:427:47)
+    at loadESMFromCJS (node:internal/modules/cjs/loader:1565:24)
+    at Module._compile (node:internal/modules/cjs/loader:1716:5)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)[39m[39m
+    at loadMainConfig (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/@storybook/core/dist/common/index.cjs:17557:11)
+    at async buildDevStandalone (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/@storybook/core/dist/core-server/index.cjs:37562:11)
+    at async withTelemetry (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/@storybook/core/dist/core-server/index.cjs:35778:12)
+    at async dev (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/@storybook/core/dist/cli/bin/index.cjs:2566:3)
+    at async n.<anonymous> (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/@storybook/core/dist/cli/bin/index.cjs:2618:74)
+
+WARN Broken build, fix the error above.
+WARN You may need to refresh the browser.
+
