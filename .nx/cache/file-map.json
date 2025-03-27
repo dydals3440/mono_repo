@@ -605,15 +605,15 @@
       },
       {
         "file": ".nx/cache/d/daemon.log",
-        "hash": "6817047814633265363"
+        "hash": "15718836083577181240"
       },
       {
         "file": ".nx/cache/d/server-process.json",
-        "hash": "1556583768837961126"
+        "hash": "4222093090555308882"
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "8264061756320940730"
+        "hash": "13215399944474633845"
       },
       {
         "file": ".nx/cache/lockfile.hash",
@@ -625,7 +625,7 @@
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "7556602897889706157"
+        "hash": "15693370794699970446"
       },
       {
         "file": ".nx/cache/run.json",
@@ -6845,318 +6845,6 @@
       }
     ],
     "projectFileMap": {
-      "@matthew/esbuild-config": [
-        {
-          "file": "packages/esbuild-config/README.md",
-          "hash": "6886952344311067916"
-        },
-        {
-          "file": "packages/esbuild-config/index.js",
-          "hash": "219371835848018192"
-        },
-        {
-          "file": "packages/esbuild-config/package.json",
-          "hash": "15474384255373218892",
-          "deps": [
-            "npm:esbuild"
-          ]
-        }
-      ],
-      "@matthew/storybook": [
-        {
-          "file": "services/storybook/.storybook/main.js",
-          "hash": "7320872557035280930"
-        },
-        {
-          "file": "services/storybook/.storybook/preview.js",
-          "hash": "16292975086547673002"
-        },
-        {
-          "file": "services/storybook/.storybook/style.css",
-          "hash": "8559096973335126743"
-        },
-        {
-          "file": "services/storybook/README.md",
-          "hash": "2624393197388313932"
-        },
-        {
-          "file": "services/storybook/package.json",
-          "hash": "2496381654946593179",
-          "deps": [
-            "npm:@chromatic-com/storybook",
-            "@matthew/react-components-layout",
-            "@matthew/themes",
-            "npm:@storybook/addon-essentials",
-            "npm:@storybook/addon-links",
-            "npm:@storybook/addon-onboarding",
-            "npm:@storybook/blocks",
-            "npm:@storybook/react",
-            "npm:@storybook/react-vite",
-            "npm:@storybook/test",
-            "npm:prop-types",
-            "npm:storybook",
-            "npm:storybook-addon-root-attributes",
-            "npm:vite"
-          ]
-        },
-        {
-          "file": "services/storybook/stories/ReactComponents/Layout/Box.stories.tsx",
-          "hash": "6501338422478375904"
-        },
-        {
-          "file": "services/storybook/stories/ReactComponents/Layout/Text.stories.tsx",
-          "hash": "7413198399920532946"
-        },
-        {
-          "file": "services/storybook/stories/ReactComponents/Layout/Heading.stories.tsx",
-          "hash": "8310526094539995088"
-        },
-        {
-          "file": "services/storybook/stories/ReactComponents/Layout/Divider.stories.tsx",
-          "hash": "9227920435812380862"
-        },
-        {
-          "file": "services/storybook/stories/ReactComponents/Layout/Flex.stories.tsx",
-          "hash": "5504204458841917275"
-        }
-      ],
-      "test": [
-        {
-          "file": "services/test/.gitignore",
-          "hash": "5403484524555424706"
-        },
-        {
-          "file": "services/test/README.md",
-          "hash": "17911282315018038361"
-        },
-        {
-          "file": "services/test/package.json",
-          "hash": "14572642321508751483",
-          "deps": [
-            "npm:@emotion/react",
-            "npm:@emotion/styled",
-            "@matthew/themes",
-            "npm:@testing-library/dom",
-            "npm:@testing-library/jest-dom",
-            "npm:@testing-library/react",
-            "npm:@testing-library/user-event",
-            "npm:@types/jest",
-            "npm:@types/node",
-            "npm:@types/react",
-            "npm:@types/react-dom",
-            "npm:ajv",
-            "npm:ajv-keywords",
-            "npm:react",
-            "npm:react-dom",
-            "npm:typescript",
-            "npm:web-vitals"
-          ]
-        },
-        {
-          "file": "services/test/public/favicon.ico",
-          "hash": "2949791817221603359"
-        },
-        {
-          "file": "services/test/public/index.html",
-          "hash": "6119358753893247175"
-        },
-        {
-          "file": "services/test/public/logo192.png",
-          "hash": "7585273181698778288"
-        },
-        {
-          "file": "services/test/public/logo512.png",
-          "hash": "9339365414554387981"
-        },
-        {
-          "file": "services/test/public/manifest.json",
-          "hash": "1447645250373428393"
-        },
-        {
-          "file": "services/test/public/robots.txt",
-          "hash": "2790380794362165217"
-        },
-        {
-          "file": "services/test/src/App.css",
-          "hash": "3472201094699472689"
-        },
-        {
-          "file": "services/test/src/App.tsx",
-          "hash": "9075898840331092965"
-        },
-        {
-          "file": "services/test/src/index.css",
-          "hash": "14056909652331273425"
-        },
-        {
-          "file": "services/test/src/index.tsx",
-          "hash": "3764204918425153053"
-        },
-        {
-          "file": "services/test/src/logo.svg",
-          "hash": "5137778160416929466"
-        },
-        {
-          "file": "services/test/src/react-app-env.d.ts",
-          "hash": "3195158367843515590"
-        },
-        {
-          "file": "services/test/src/reportWebVitals.ts",
-          "hash": "4905365886999342103"
-        },
-        {
-          "file": "services/test/src/setupTests.ts",
-          "hash": "16903885983588411080"
-        },
-        {
-          "file": "services/test/tsconfig.json",
-          "hash": "3664978063588679595"
-        }
-      ],
-      "@matthew/react-components-layout": [
-        {
-          "file": "packages/react/components/layout/build.js",
-          "hash": "14200841387458175671"
-        },
-        {
-          "file": "packages/react/components/layout/dist/Block.d.ts",
-          "hash": "1728052241844062571"
-        },
-        {
-          "file": "packages/react/components/layout/dist/block.css.d.ts",
-          "hash": "14188058340914921610"
-        },
-        {
-          "file": "packages/react/components/layout/dist/core/style.css.d.ts",
-          "hash": "5498147021783014923"
-        },
-        {
-          "file": "packages/react/components/layout/dist/core/types.d.ts",
-          "hash": "5157060639524657397"
-        },
-        {
-          "file": "packages/react/components/layout/dist/index.cjs",
-          "hash": "10607123064373199796"
-        },
-        {
-          "file": "packages/react/components/layout/dist/index.cjs.map",
-          "hash": "16636324860325634411"
-        },
-        {
-          "file": "packages/react/components/layout/dist/index.css",
-          "hash": "3543261202877140101"
-        },
-        {
-          "file": "packages/react/components/layout/dist/index.css.map",
-          "hash": "14461048197610703628"
-        },
-        {
-          "file": "packages/react/components/layout/dist/index.d.ts",
-          "hash": "9927319546124880364"
-        },
-        {
-          "file": "packages/react/components/layout/dist/index.js",
-          "hash": "18339449085831424685"
-        },
-        {
-          "file": "packages/react/components/layout/dist/index.js.map",
-          "hash": "7705993427133772493"
-        },
-        {
-          "file": "packages/react/components/layout/dist/layout/Box.d.ts",
-          "hash": "11670782446169208549"
-        },
-        {
-          "file": "packages/react/components/layout/dist/layout/index.d.ts",
-          "hash": "1605732363637511433"
-        },
-        {
-          "file": "packages/react/components/layout/dist/layout/types.d.ts",
-          "hash": "585308746748062129"
-        },
-        {
-          "file": "packages/react/components/layout/dist/utils/properties.d.ts",
-          "hash": "13210830027052267318"
-        },
-        {
-          "file": "packages/react/components/layout/package.json",
-          "hash": "793147629290701792",
-          "deps": [
-            "npm:@vanilla-extract/recipes",
-            "npm:clsx",
-            "@matthew/esbuild-config",
-            "@matthew/themes",
-            "npm:@types/react",
-            "npm:@types/react-dom",
-            "npm:@vanilla-extract/css",
-            "npm:@vanilla-extract/esbuild-plugin",
-            "npm:@vanilla-extract/sprinkles",
-            "npm:react",
-            "npm:react-dom",
-            "npm:typescript"
-          ]
-        },
-        {
-          "file": "packages/react/components/layout/src/core/style.css.ts",
-          "hash": "2404907119042026870"
-        },
-        {
-          "file": "packages/react/components/layout/src/core/types.ts",
-          "hash": "11952599678389752506"
-        },
-        {
-          "file": "packages/react/components/layout/src/layout/Box.tsx",
-          "hash": "2576291269608267426"
-        },
-        {
-          "file": "packages/react/components/layout/src/layout/index.ts",
-          "hash": "2738394407819715805"
-        },
-        {
-          "file": "packages/react/components/layout/src/layout/types.ts",
-          "hash": "3421261898509720270"
-        },
-        {
-          "file": "packages/react/components/layout/src/typography/Heading.tsx",
-          "hash": "14227164362175195894"
-        },
-        {
-          "file": "packages/react/components/layout/src/typography/Text.tsx",
-          "hash": "11954194631571758376"
-        },
-        {
-          "file": "packages/react/components/layout/src/typography/index.ts",
-          "hash": "13267570036455168291"
-        },
-        {
-          "file": "packages/react/components/layout/src/typography/style.css.ts",
-          "hash": "6018012524163756118"
-        },
-        {
-          "file": "packages/react/components/layout/src/typography/types.ts",
-          "hash": "11940166492091605162"
-        },
-        {
-          "file": "packages/react/components/layout/src/utils/properties.ts",
-          "hash": "5698855879563130366"
-        },
-        {
-          "file": "packages/react/components/layout/tsconfig.json",
-          "hash": "10344179325425879767"
-        },
-        {
-          "file": "packages/react/components/layout/src/index.ts",
-          "hash": "10517059378662973427"
-        },
-        {
-          "file": "packages/react/components/layout/src/layout/Divider.tsx",
-          "hash": "12135245663595183287"
-        },
-        {
-          "file": "packages/react/components/layout/src/layout/Flex.tsx",
-          "hash": "17498366847050642124"
-        }
-      ],
       "@matthew/themes": [
         {
           "file": "packages/themes/build.js",
@@ -7285,6 +6973,326 @@
         {
           "file": "packages/themes/tsconfig.json",
           "hash": "10248009443664204963"
+        }
+      ],
+      "@matthew/react-components-layout": [
+        {
+          "file": "packages/react/components/layout/build.js",
+          "hash": "14200841387458175671"
+        },
+        {
+          "file": "packages/react/components/layout/dist/Block.d.ts",
+          "hash": "1728052241844062571"
+        },
+        {
+          "file": "packages/react/components/layout/dist/block.css.d.ts",
+          "hash": "14188058340914921610"
+        },
+        {
+          "file": "packages/react/components/layout/dist/core/style.css.d.ts",
+          "hash": "5498147021783014923"
+        },
+        {
+          "file": "packages/react/components/layout/dist/core/types.d.ts",
+          "hash": "5157060639524657397"
+        },
+        {
+          "file": "packages/react/components/layout/dist/index.cjs",
+          "hash": "10607123064373199796"
+        },
+        {
+          "file": "packages/react/components/layout/dist/index.cjs.map",
+          "hash": "16636324860325634411"
+        },
+        {
+          "file": "packages/react/components/layout/dist/index.css",
+          "hash": "3543261202877140101"
+        },
+        {
+          "file": "packages/react/components/layout/dist/index.css.map",
+          "hash": "14461048197610703628"
+        },
+        {
+          "file": "packages/react/components/layout/dist/index.d.ts",
+          "hash": "9927319546124880364"
+        },
+        {
+          "file": "packages/react/components/layout/dist/index.js",
+          "hash": "18339449085831424685"
+        },
+        {
+          "file": "packages/react/components/layout/dist/index.js.map",
+          "hash": "7705993427133772493"
+        },
+        {
+          "file": "packages/react/components/layout/dist/layout/Box.d.ts",
+          "hash": "11670782446169208549"
+        },
+        {
+          "file": "packages/react/components/layout/dist/layout/index.d.ts",
+          "hash": "1605732363637511433"
+        },
+        {
+          "file": "packages/react/components/layout/dist/layout/types.d.ts",
+          "hash": "585308746748062129"
+        },
+        {
+          "file": "packages/react/components/layout/dist/utils/properties.d.ts",
+          "hash": "13210830027052267318"
+        },
+        {
+          "file": "packages/react/components/layout/package.json",
+          "hash": "793147629290701792",
+          "deps": [
+            "npm:@vanilla-extract/recipes",
+            "npm:clsx",
+            "@matthew/esbuild-config",
+            "@matthew/themes",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:@vanilla-extract/css",
+            "npm:@vanilla-extract/esbuild-plugin",
+            "npm:@vanilla-extract/sprinkles",
+            "npm:react",
+            "npm:react-dom",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "packages/react/components/layout/src/core/style.css.ts",
+          "hash": "2404907119042026870"
+        },
+        {
+          "file": "packages/react/components/layout/src/core/types.ts",
+          "hash": "11952599678389752506"
+        },
+        {
+          "file": "packages/react/components/layout/src/layout/Box.tsx",
+          "hash": "2576291269608267426"
+        },
+        {
+          "file": "packages/react/components/layout/src/layout/index.ts",
+          "hash": "10592587984320221360"
+        },
+        {
+          "file": "packages/react/components/layout/src/layout/types.ts",
+          "hash": "8465358425514833493"
+        },
+        {
+          "file": "packages/react/components/layout/src/typography/Heading.tsx",
+          "hash": "14227164362175195894"
+        },
+        {
+          "file": "packages/react/components/layout/src/typography/Text.tsx",
+          "hash": "11954194631571758376"
+        },
+        {
+          "file": "packages/react/components/layout/src/typography/index.ts",
+          "hash": "13267570036455168291"
+        },
+        {
+          "file": "packages/react/components/layout/src/typography/style.css.ts",
+          "hash": "6018012524163756118"
+        },
+        {
+          "file": "packages/react/components/layout/src/typography/types.ts",
+          "hash": "11940166492091605162"
+        },
+        {
+          "file": "packages/react/components/layout/src/utils/properties.ts",
+          "hash": "5698855879563130366"
+        },
+        {
+          "file": "packages/react/components/layout/tsconfig.json",
+          "hash": "10344179325425879767"
+        },
+        {
+          "file": "packages/react/components/layout/src/index.ts",
+          "hash": "8043087495670228573"
+        },
+        {
+          "file": "packages/react/components/layout/src/layout/Divider.tsx",
+          "hash": "12135245663595183287"
+        },
+        {
+          "file": "packages/react/components/layout/src/layout/Flex.tsx",
+          "hash": "17498366847050642124"
+        },
+        {
+          "file": "packages/react/components/layout/src/layout/Grid.tsx",
+          "hash": "843906208146554456"
+        },
+        {
+          "file": "packages/react/components/layout/src/layout/GridItem.tsx",
+          "hash": "4566674960217821503"
+        }
+      ],
+      "@matthew/esbuild-config": [
+        {
+          "file": "packages/esbuild-config/README.md",
+          "hash": "6886952344311067916"
+        },
+        {
+          "file": "packages/esbuild-config/index.js",
+          "hash": "219371835848018192"
+        },
+        {
+          "file": "packages/esbuild-config/package.json",
+          "hash": "15474384255373218892",
+          "deps": [
+            "npm:esbuild"
+          ]
+        }
+      ],
+      "test": [
+        {
+          "file": "services/test/.gitignore",
+          "hash": "5403484524555424706"
+        },
+        {
+          "file": "services/test/README.md",
+          "hash": "17911282315018038361"
+        },
+        {
+          "file": "services/test/package.json",
+          "hash": "14572642321508751483",
+          "deps": [
+            "npm:@emotion/react",
+            "npm:@emotion/styled",
+            "@matthew/themes",
+            "npm:@testing-library/dom",
+            "npm:@testing-library/jest-dom",
+            "npm:@testing-library/react",
+            "npm:@testing-library/user-event",
+            "npm:@types/jest",
+            "npm:@types/node",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:ajv",
+            "npm:ajv-keywords",
+            "npm:react",
+            "npm:react-dom",
+            "npm:typescript",
+            "npm:web-vitals"
+          ]
+        },
+        {
+          "file": "services/test/public/favicon.ico",
+          "hash": "2949791817221603359"
+        },
+        {
+          "file": "services/test/public/index.html",
+          "hash": "6119358753893247175"
+        },
+        {
+          "file": "services/test/public/logo192.png",
+          "hash": "7585273181698778288"
+        },
+        {
+          "file": "services/test/public/logo512.png",
+          "hash": "9339365414554387981"
+        },
+        {
+          "file": "services/test/public/manifest.json",
+          "hash": "1447645250373428393"
+        },
+        {
+          "file": "services/test/public/robots.txt",
+          "hash": "2790380794362165217"
+        },
+        {
+          "file": "services/test/src/App.css",
+          "hash": "3472201094699472689"
+        },
+        {
+          "file": "services/test/src/App.tsx",
+          "hash": "9075898840331092965"
+        },
+        {
+          "file": "services/test/src/index.css",
+          "hash": "14056909652331273425"
+        },
+        {
+          "file": "services/test/src/index.tsx",
+          "hash": "3764204918425153053"
+        },
+        {
+          "file": "services/test/src/logo.svg",
+          "hash": "5137778160416929466"
+        },
+        {
+          "file": "services/test/src/react-app-env.d.ts",
+          "hash": "3195158367843515590"
+        },
+        {
+          "file": "services/test/src/reportWebVitals.ts",
+          "hash": "4905365886999342103"
+        },
+        {
+          "file": "services/test/src/setupTests.ts",
+          "hash": "16903885983588411080"
+        },
+        {
+          "file": "services/test/tsconfig.json",
+          "hash": "3664978063588679595"
+        }
+      ],
+      "@matthew/storybook": [
+        {
+          "file": "services/storybook/.storybook/main.js",
+          "hash": "7320872557035280930"
+        },
+        {
+          "file": "services/storybook/.storybook/preview.js",
+          "hash": "16292975086547673002"
+        },
+        {
+          "file": "services/storybook/.storybook/style.css",
+          "hash": "8559096973335126743"
+        },
+        {
+          "file": "services/storybook/README.md",
+          "hash": "2624393197388313932"
+        },
+        {
+          "file": "services/storybook/package.json",
+          "hash": "2496381654946593179",
+          "deps": [
+            "npm:@chromatic-com/storybook",
+            "@matthew/react-components-layout",
+            "@matthew/themes",
+            "npm:@storybook/addon-essentials",
+            "npm:@storybook/addon-links",
+            "npm:@storybook/addon-onboarding",
+            "npm:@storybook/blocks",
+            "npm:@storybook/react",
+            "npm:@storybook/react-vite",
+            "npm:@storybook/test",
+            "npm:prop-types",
+            "npm:storybook",
+            "npm:storybook-addon-root-attributes",
+            "npm:vite"
+          ]
+        },
+        {
+          "file": "services/storybook/stories/ReactComponents/Layout/Box.stories.tsx",
+          "hash": "6501338422478375904"
+        },
+        {
+          "file": "services/storybook/stories/ReactComponents/Layout/Text.stories.tsx",
+          "hash": "7413198399920532946"
+        },
+        {
+          "file": "services/storybook/stories/ReactComponents/Layout/Heading.stories.tsx",
+          "hash": "8310526094539995088"
+        },
+        {
+          "file": "services/storybook/stories/ReactComponents/Layout/Divider.stories.tsx",
+          "hash": "9227920435812380862"
+        },
+        {
+          "file": "services/storybook/stories/ReactComponents/Layout/Flex.stories.tsx",
+          "hash": "5504204458841917275"
         }
       ]
     }
