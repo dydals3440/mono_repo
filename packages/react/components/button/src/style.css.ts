@@ -18,6 +18,7 @@ export const buttonStyle = recipe({
     userSelect: "none",
     transition: "background-color 0.2s, color 0.2s, border-color 0.2s",
 
+    // @ts-ignore
     "&[disabled]": {
       opacity: 0.4,
       cursor: "not-allowed",
@@ -90,6 +91,33 @@ export const buttonStyle = recipe({
         "&:active:not([disabled])": {
           backgroundColor: activeColorVariant,
         },
+      },
+    },
+  },
+});
+
+export const spanStyle = recipe({
+  base: {
+    display: "flex",
+    alignItems: "center",
+  },
+  variants: {
+    size: {
+      xs: {
+        ...classes.typography.text.xs,
+        fontWeight: vars.typography.fontWeight[600],
+      },
+      sm: {
+        ...classes.typography.text.sm,
+        fontWeight: vars.typography.fontWeight[600],
+      },
+      md: {
+        ...classes.typography.text.md,
+        fontWeight: vars.typography.fontWeight[600],
+      },
+      lg: {
+        ...classes.typography.text.lg,
+        fontWeight: vars.typography.fontWeight[600],
       },
     },
   },

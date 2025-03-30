@@ -1,11 +1,12 @@
 import * as React from "react";
-import { ButtonProps } from "./types";
+import type { ButtonProps } from "./types";
 import { clsx } from "clsx";
 import {
   activeColorVariant,
   buttonStyle,
   enableColorVariant,
   hoverColorVariant,
+  spanStyle,
 } from "./style.css";
 import { assignInlineVars } from "@vanilla-extract/dynamic";
 import { vars } from "@matthew/themes";
@@ -15,6 +16,8 @@ const Button = (props: ButtonProps, ref: React.Ref<HTMLButtonElement>) => {
     variant = "solid",
     size = "md",
     color = "gray",
+    leftIcon,
+    rightIcon,
     children,
     isDisabled = false,
     // ...rest
@@ -43,7 +46,9 @@ const Button = (props: ButtonProps, ref: React.Ref<HTMLButtonElement>) => {
         }),
       }}
     >
-      {children}
+      {leftIcon && <span className={spanStyle({ size })}>{leftIcon}</span>}
+      <span>{children}</span>
+      {rightIcon && <span className={spanStyle({ size })}>{rightIcon}</span>}
     </button>
   );
 };
