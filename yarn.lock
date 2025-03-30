@@ -8401,6 +8401,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "fastcampus-front-projects@workspace:."
   dependencies:
+    "@matthew/react-components-button": "workspace:^"
     "@storybook/addon-docs": ^8.6.8
     "@typescript-eslint/eslint-plugin": ^6.5.0
     "@typescript-eslint/parser": ^6.5.0

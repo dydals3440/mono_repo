@@ -1,0 +1,149 @@
+✘ [ERROR] Could not resolve "@matthew/themes"
+
+    src/typography/style.css.ts:3:30:
+      3 │       import { classes } from "@matthew/themes";
+        ╵                               ~~~~~~~~~~~~~~~~~
+
+  The module "./dist/index.js" was not found on the file system:
+
+    ../../../../node_modules/@matthew/themes/package.json:9:16:
+      9 │       "import": "./dist/index.js",
+        ╵                 ~~~~~~~~~~~~~~~~~
+
+  You can mark the path "@matthew/themes" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+✘ [ERROR] Could not resolve "@matthew/themes"
+
+    src/core/style.css.ts:4:21:
+      4 │ import { vars } from "@matthew/themes";
+        ╵                      ~~~~~~~~~~~~~~~~~
+
+  The module "./dist/index.js" was not found on the file system:
+
+    ../../../../node_modules/@matthew/themes/package.json:9:16:
+      9 │       "import": "./dist/index.js",
+        ╵                 ~~~~~~~~~~~~~~~~~
+
+  You can mark the path "@matthew/themes" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+✘ [ERROR] Could not resolve "@matthew/themes"
+
+    src/typography/style.css.ts:3:30:
+      3 │       import { classes } from "@matthew/themes";
+        ╵                               ~~~~~~~~~~~~~~~~~
+
+  The module "./dist/index.js" was not found on the file system:
+
+    ../../../../node_modules/@matthew/themes/package.json:9:16:
+      9 │       "import": "./dist/index.js",
+        ╵                 ~~~~~~~~~~~~~~~~~
+
+  You can mark the path "@matthew/themes" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+✘ [ERROR] Could not resolve "@matthew/themes"
+
+    src/core/style.css.ts:4:21:
+      4 │ import { vars } from "@matthew/themes";
+        ╵                      ~~~~~~~~~~~~~~~~~
+
+  The module "./dist/index.js" was not found on the file system:
+
+    ../../../../node_modules/@matthew/themes/package.json:9:16:
+      9 │       "import": "./dist/index.js",
+        ╵                 ~~~~~~~~~~~~~~~~~
+
+  You can mark the path "@matthew/themes" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+✘ [ERROR] [plugin vanilla-extract] Build failed with 1 error:
+src/typography/style.css.ts:3:30: ERROR: Could not resolve "@matthew/themes"
+
+    src/typography/Text.tsx:7:26:
+      7 │ import { textStyle } from "./style.css";
+        ╵                           ~~~~~~~~~~~~~
+
+  This error came from the "onLoad" callback registered here:
+
+    ../../../../node_modules/@vanilla-extract/esbuild-plugin/dist/vanilla-extract-esbuild-plugin.cjs.dev.js:55:12:
+      55 │       build.onLoad({
+         ╵             ~~~~~~
+
+    at setup (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/@vanilla-extract/esbuild-plugin/dist/vanilla-extract-esbuild-plugin.cjs.dev.js:55:13)
+    at handlePlugins (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:1287:21)
+    at buildOrServeImpl (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:974:5)
+    at Object.buildOrServe (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:780:5)
+    at /Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:2132:17
+    at new Promise (<anonymous>)
+    at Object.build (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:2131:14)
+    at build (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:1978:51)
+    at run (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/packages/esbuild-config/index.js:27:5)
+
+✘ [ERROR] [plugin vanilla-extract] Build failed with 1 error:
+src/core/style.css.ts:4:21: ERROR: Could not resolve "@matthew/themes"
+
+    src/typography/Text.tsx:3:42:
+      3 │ import { BaseStyle, StyleSprinkles } from "../core/style.css";
+        ╵                                           ~~~~~~~~~~~~~~~~~~~
+
+  This error came from the "onLoad" callback registered here:
+
+    ../../../../node_modules/@vanilla-extract/esbuild-plugin/dist/vanilla-extract-esbuild-plugin.cjs.dev.js:55:12:
+      55 │       build.onLoad({
+         ╵             ~~~~~~
+
+    at setup (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/@vanilla-extract/esbuild-plugin/dist/vanilla-extract-esbuild-plugin.cjs.dev.js:55:13)
+    at handlePlugins (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:1287:21)
+    at buildOrServeImpl (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:974:5)
+    at Object.buildOrServe (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:780:5)
+    at /Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:2132:17
+    at new Promise (<anonymous>)
+    at Object.build (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:2131:14)
+    at build (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:1978:51)
+    at run (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/packages/esbuild-config/index.js:27:5)
+
+✘ [ERROR] [plugin vanilla-extract] Build failed with 1 error:
+src/typography/style.css.ts:3:30: ERROR: Could not resolve "@matthew/themes"
+
+    src/typography/Heading.tsx:3:26:
+      3 │ import { textStyle } from "./style.css";
+        ╵                           ~~~~~~~~~~~~~
+
+  This error came from the "onLoad" callback registered here:
+
+    ../../../../node_modules/@vanilla-extract/esbuild-plugin/dist/vanilla-extract-esbuild-plugin.cjs.dev.js:55:12:
+      55 │       build.onLoad({
+         ╵             ~~~~~~
+
+    at setup (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/@vanilla-extract/esbuild-plugin/dist/vanilla-extract-esbuild-plugin.cjs.dev.js:55:13)
+    at handlePlugins (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:1287:21)
+    at buildOrServeImpl (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:974:5)
+    at Object.buildOrServe (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:780:5)
+    at /Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:2132:17
+    at new Promise (<anonymous>)
+    at Object.build (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:2131:14)
+    at build (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:1978:51)
+    at run (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/packages/esbuild-config/index.js:31:5)
+
+✘ [ERROR] [plugin vanilla-extract] Build failed with 1 error:
+src/core/style.css.ts:4:21: ERROR: Could not resolve "@matthew/themes"
+
+    src/typography/Heading.tsx:6:42:
+      6 │ import { BaseStyle, StyleSprinkles } from "../core/style.css";
+        ╵                                           ~~~~~~~~~~~~~~~~~~~
+
+  This error came from the "onLoad" callback registered here:
+
+    ../../../../node_modules/@vanilla-extract/esbuild-plugin/dist/vanilla-extract-esbuild-plugin.cjs.dev.js:55:12:
+      55 │       build.onLoad({
+         ╵             ~~~~~~
+
+    at setup (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/@vanilla-extract/esbuild-plugin/dist/vanilla-extract-esbuild-plugin.cjs.dev.js:55:13)
+    at handlePlugins (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:1287:21)
+    at buildOrServeImpl (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:974:5)
+    at Object.buildOrServe (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:780:5)
+    at /Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:2132:17
+    at new Promise (<anonymous>)
+    at Object.build (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:2131:14)
+    at build (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/node_modules/esbuild/lib/main.js:1978:51)
+    at run (/Users/kim-yongmin/Workspace/fastcampus/fastcampus-front-projects/packages/esbuild-config/index.js:31:5)
+
+Build failed

@@ -1,5 +1,6 @@
+import React from "react";
 import "@matthew/react-components-button/style.css";
-import { Button as _Button } from "@matthew/react-components-button";
+import { Button as _Button, Button } from "@matthew/react-components-button";
 import { vars } from "@matthew/themes";
 
 export default {
@@ -31,5 +32,6 @@ export const ButtonStory = {
     children: "Button",
     padding: 5,
     size: "lg",
+    leftIcon: "🍠",
   },
 };

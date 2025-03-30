@@ -1494,18 +1494,18 @@
         "hash": "17077610581833945357"
       }
     },
-    "npm:@esbuild/darwin-arm64": {
+    "npm:@esbuild/darwin-arm64@0.16.17": {
       "type": "npm",
-      "name": "npm:@esbuild/darwin-arm64",
+      "name": "npm:@esbuild/darwin-arm64@0.16.17",
       "data": {
         "version": "0.16.17",
         "packageName": "@esbuild/darwin-arm64",
         "hash": "3906210493949021541"
       }
     },
-    "npm:@esbuild/darwin-arm64@0.25.1": {
+    "npm:@esbuild/darwin-arm64": {
       "type": "npm",
-      "name": "npm:@esbuild/darwin-arm64@0.25.1",
+      "name": "npm:@esbuild/darwin-arm64",
       "data": {
         "version": "0.25.1",
         "packageName": "@esbuild/darwin-arm64",
@@ -3805,6 +3805,15 @@
         "version": "1.17.1",
         "packageName": "@vanilla-extract/css",
         "hash": "e8c8702691fe871cad236a702eeaf9081404de970f1c407c358ed428771072abebd228df91ab721e28bc42887af1ea63df80f069fc94afa55405e58eb5115230"
+      }
+    },
+    "npm:@vanilla-extract/dynamic": {
+      "type": "npm",
+      "name": "npm:@vanilla-extract/dynamic",
+      "data": {
+        "version": "2.1.2",
+        "packageName": "@vanilla-extract/dynamic",
+        "hash": "ec6ec9b02c7ec8a9d60aebf63225fd3f930c06ad824321f03f683f1948eb6d4e554d934303da140b3230b4af2fa15bab494c6da2a3b9a172e4118c245b4f942a"
       }
     },
     "npm:@vanilla-extract/esbuild-plugin": {
@@ -21065,6 +21074,11 @@
       "type": "static"
     },
     {
+      "source": "npm:@vanilla-extract/dynamic",
+      "target": "npm:@vanilla-extract/private",
+      "type": "static"
+    },
+    {
       "source": "npm:@vanilla-extract/esbuild-plugin",
       "target": "npm:@vanilla-extract/integration",
       "type": "static"
@@ -25946,7 +25960,7 @@
     },
     {
       "source": "npm:esbuild",
-      "target": "npm:@esbuild/darwin-arm64",
+      "target": "npm:@esbuild/darwin-arm64@0.16.17",
       "type": "static"
     },
     {
@@ -26061,7 +26075,7 @@
     },
     {
       "source": "npm:esbuild@0.25.1",
-      "target": "npm:@esbuild/darwin-arm64@0.25.1",
+      "target": "npm:@esbuild/darwin-arm64",
       "type": "static"
     },
     {
@@ -26186,7 +26200,7 @@
     },
     {
       "source": "npm:esbuild@0.25.1",
-      "target": "npm:@esbuild/darwin-arm64@0.25.1",
+      "target": "npm:@esbuild/darwin-arm64",
       "type": "static"
     },
     {
@@ -26311,7 +26325,7 @@
     },
     {
       "source": "npm:esbuild@0.25.1",
-      "target": "npm:@esbuild/darwin-arm64@0.25.1",
+      "target": "npm:@esbuild/darwin-arm64",
       "type": "static"
     },
     {
