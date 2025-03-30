@@ -1,6 +1,5 @@
-import React from "react";
 import "@matthew/react-components-button/style.css";
-import { Button as _Button, Button } from "@matthew/react-components-button";
+import { Button as _Button } from "@matthew/react-components-button";
 import { vars } from "@matthew/themes";
 
 export default {
