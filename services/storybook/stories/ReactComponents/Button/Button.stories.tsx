@@ -12,25 +12,26 @@ export default {
   argTypes: {
     size: {
       options: ["xs", "sm", "md", "lg"],
-      control: { type: "select" },
-    },
-    variant: {
-      options: ["solid", "outline", "ghost"],
-      control: { type: "select" },
+      control: "select",
     },
     color: {
       options: Object.keys(vars.colors.$scale),
-      control: { type: "select" },
+      control: "select",
+    },
+    variant: {
+      options: ["solid", "outline", "ghost"],
+      control: "select",
     },
   },
 };
 
 export const ButtonStory = {
   args: {
-    as: "button",
-    children: "Button",
-    padding: 5,
     size: "lg",
-    leftIcon: "🍠",
+    children: "Button",
+    variant: "outline",
+    isDisabled: false,
+    isLoading: false,
+    leftIcon: "😀",
   },
 };
