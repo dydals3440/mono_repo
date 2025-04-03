@@ -2689,6 +2689,7 @@ __metadata:
   resolution: "@matthew/react-components-button@workspace:packages/react/components/button"
   dependencies:
     "@matthew/esbuild-config": "workspace:^"
+    "@matthew/react-hooks-button": "workspace:^"
     "@matthew/themes": "workspace:^"
     "@types/react": ^19.0.12
     "@types/react-dom": ^19.0.4
@@ -2730,6 +2731,22 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@matthew/react-hooks-button@workspace:^, @matthew/react-hooks-button@workspace:packages/react/hooks/button":
+  version: 0.0.0-use.local
+  resolution: "@matthew/react-hooks-button@workspace:packages/react/hooks/button"
+  dependencies:
+    "@matthew/esbuild-config": "workspace:^"
+    "@types/react": ^19.0.12
+    "@types/react-dom": ^19.0.4
+    clsx: ^2.1.1
+    react: ^19.0.0
+    react-dom: ^19.0.0
+    typescript: ^5.8.2
+  peerDependencies:
+    react: "*"
+  languageName: unknown
+  linkType: soft
+
 "@matthew/storybook@workspace:services/storybook":
   version: 0.0.0-use.local
   resolution: "@matthew/storybook@workspace:services/storybook"
@@ -2737,6 +2754,7 @@ __metadata:
     "@chromatic-com/storybook": ^3
     "@matthew/react-components-button": "workspace:^"
     "@matthew/react-components-layout": "workspace:^"
+    "@matthew/react-hooks-button": "workspace:^"
     "@matthew/themes": "workspace:^"
     "@storybook/addon-a11y": ^8.6.8
     "@storybook/addon-essentials": ^8.6.8

@@ -34,7 +34,7 @@ export const buttonStyle = recipe({
       // reset-css
       outline: "none",
 
-      boxShadow: vars.box.shadows,
+      boxShadow: vars.box.shadows.outline,
     },
   },
   variants: {

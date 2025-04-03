@@ -1,0 +1,322 @@
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
+▲ [WARNING] Expected ":" [css-syntax-error]
+
+    vanilla-extract-css-ns:src/style.css.ts.vanilla.css?source=#H4sIAAAAAAAAE81W247bIBB936/gZaNEilPbiZOs96X/0MeqqrBNHBoMLpBbq/33AgZfYidZNVup2rV3PZw5c2GY4fMOnTccFkiA70GxhS8/c/D7CQD/2fwBQHJIxYbxIgacSSjR2M9QPnlVi2/qCfwbyPmyhX17mlkLc6NQQJ5jGgNfL5cwyzDN7VfCeIZ458PjMMN7oWSz+SriqNBLGRYlgecYbAg6aQEkOKcelqhQyBRRibgWp3sumOIrGXaivVCcAhGUyhhQRpEWmgiwxEy5lcB0l3O2p5mXMsK4MhyKKWj/bz1rRJpj9FV5BROCsm82L6yEKZZn7fri1UicP5RJDxLCjihz+VTqUEKPMKjz4ShGQJSQ2o82Y8X35pTjDUv3wjtggZUHzv5eEkxRE6bO6enLFmbsWFOedGrNT1CeAM8TOPanwP7O/GjyaoFCba+vIBoWqse/DU+gQO9QWE6mNWh+BRT4NWuRVZyab6Eeb9BpR6oRy2uoFivJ4y4+HI7NumpekcbNb/OeSNzS0C8vGmJeWObQvKJruBZz6KgNOjLUwZDXYbMjmFJztlrpu7IlCiqQdHoZ5DvPpcjEvfCv6C58G0nkAh5ChQ7lnjvbU9dxVad10pfLqfJnPgVhGGmV5aR9Kpq2szDFvmFUegL/0jyzupMY6RHhfKvawdI350ob87ZWFkT+c7dRKXWnncMybn3WOlbSuBD1XVg/6MPqjhPhhQvLSxeCB8wHXdurnvFeBlY987MgfCQDwSzsZCC4cGF+4cDaOHDZ3WNwgHzseRZUFV1nJefw7EXVwijesoM6RKp/j5t2P7HN9A53UM/OUQxTiQ/o73jC3lx9uRKaGWsl5Goe9sLqBOzmrj6IghGcDYE+IHjQGZ3/ND83TfVTCB9N4X9aGolRfN99qdFKH++YDVn2Ab2vYUMPtrGGafMBHalh2xq2krlrJEzUQdpLc++CFBewEtd3bTUsI2EoIVfzdoMprsD1XmFqDCaEpbvWfVgy1ezC+qCqK6UuTlMN7Vuz7cP3cAmTkhVt4EXFWxxBG3kf5e7qF7nBJjdHnMnt4LRoiSo7KSTpWJEAz6190qXdMP7oMq4HKNe3ONdDpLs26eU4Ca6RBX0i0iFqVVVzQWhkfUK7WJH+Abwu9+ioDQAA:30:13:
+      30 │     boxShadow {
+         │              ^
+         ╵              :
+
